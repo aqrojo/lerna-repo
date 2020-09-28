@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b993ffab-28ef-4bfb-8800-8eeef1ccafef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lerna.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/common/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/multiple-choice-editor/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/multiple-choice-editor/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/multiple-choice-question/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/multiple-choice-question/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/multiple-choice-store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/multiple-choice-store/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +44,7 @@
       <workItem from="1601039858332" duration="1732000" />
       <workItem from="1601220184801" duration="886000" />
       <workItem from="1601299402399" duration="327000" />
-      <workItem from="1601300565555" duration="1731000" />
+      <workItem from="1601300565555" duration="1897000" />
     </task>
     <servers />
   </component>
