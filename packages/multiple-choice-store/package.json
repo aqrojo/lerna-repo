@@ -1,0 +1,12 @@
+{
+  "name": "@lemonade/multiple-choice-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing store with version: $npm_package_version"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

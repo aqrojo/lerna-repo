@@ -1,0 +1,12 @@
+{
+  "name": "@lemonade/multiple-choice-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing question with version: $npm_package_version"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

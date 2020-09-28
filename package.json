@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test",
+    "test-question": "lerna run test --scope=@lemonade/multiple-choice-question"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
